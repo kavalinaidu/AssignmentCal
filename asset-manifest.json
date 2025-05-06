@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AssignmentCal/static/css/main.f88ec8eb.css",
+    "main.js": "/AssignmentCal/static/js/main.c8baf9e8.js",
+    "static/media/bootstrap-icons.woff?": "/AssignmentCal/static/media/bootstrap-icons.ff25a7ff93ea67f144c5.woff",
+    "static/media/bootstrap-icons.woff2?": "/AssignmentCal/static/media/bootstrap-icons.ca961065e092080ca3f5.woff2",
+    "index.html": "/AssignmentCal/index.html",
+    "main.f88ec8eb.css.map": "/AssignmentCal/static/css/main.f88ec8eb.css.map",
+    "main.c8baf9e8.js.map": "/AssignmentCal/static/js/main.c8baf9e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f88ec8eb.css",
+    "static/js/main.c8baf9e8.js"
+  ]
+}
